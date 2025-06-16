@@ -1,5 +1,5 @@
 {
-  "name": "cloudflare",
+  "name": "nextjs",
   "main": ".open-next/worker.js",
   "compatibility_date": "2025-06-16",
   "compatibility_flags": [
